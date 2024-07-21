@@ -12,7 +12,7 @@
         else:
             dicts[word] = 1
         return dicts
-  print(worldcount(input('请输入:')))
+   print(worldcount(input('请输入:')))
 
 # 闯关任务：Vscode连接InternStudio debug笔记
 如图进行代码调试
